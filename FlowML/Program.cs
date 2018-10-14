@@ -4,7 +4,7 @@ namespace FlowML
 {
 #if WINDOWS || LINUX
     /// <summary>
-    /// The main class.
+    /// The main class. By Artem and Tomas
     /// </summary>
     public static class Program
     {
